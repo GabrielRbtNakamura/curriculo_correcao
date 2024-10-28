@@ -1,0 +1,88 @@
+ul{background-color: silver;
+    display: flex;
+    justify-content: space-around;
+    list-style: none}
+
+nav ul li a:hover{background-color: #0f5223;
+                  color: silver  }
+
+a{text-decoration: none;
+ color: #000000}
+
+.banner{
+    background-color: slategray;
+    height: 300px}
+
+.nome{text-align: center}
+
+.foto img{ height: 140px;
+    border-radius: 20px}
+
+.fototexto{display: flex;
+    justify-content: space-around;
+    align-items: center}
+
+.HistoricoProfi{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.p2,
+.p3{border: 2px solid #cecece;
+    padding: 5px;
+    width: 50%}
+
+.competencias{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin-top: 40px;
+    gap: 20px;
+}
+
+.p4,
+.p5{border: 2px solid #cecece;
+    padding: 5px;
+    width: 50%}
+
+.fim{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 40px;
+
+}
+
+.fim img{
+    height: 100px;
+    width: 100px;
+}
+
+footer{
+    background-color: slategray;
+}
+
+.fim_2{
+    margin: 40px;
+}
+
+.fim_3{
+    margin: 40px;
+}
+
+.fim_4{
+    margin: 40px;
+}
+
+.fim_5{
+    margin: 40px;
+}
+
+.fim_6{
+    margin: 40px;
+}
+
+.fim img{border-radius: 20px}
